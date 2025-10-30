@@ -28,7 +28,7 @@ It follows a teenage girl named Belly, who spends her summers at Cousins Beach w
 |--------|---------------|----------|
 | 1      | 2022          | 7        |
 | 2      | 2023          | 8        |
-| 3      | Coming Soon   | TBA      |
+| 3      | 2025          | 11       |
 
 ---
 
